@@ -171,7 +171,7 @@ section {
 /* ------------------TOP-PART------------------------- */
 .top-part {
   margin-inline: 1.5rem;
-  margin-block-start: 1rem;
+  padding-block-start: 1rem;
   margin-block-end: 4rem;
   align-items: center;
 }
